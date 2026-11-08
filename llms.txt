@@ -1,0 +1,12 @@
+# Clickwise.net — Machine-Readable Profile & API Index
+
+> Machine-readable profile, OpenAPI 3.1 specifications, and remote MCP index for Clickwise.net.
+
+## Core Artifacts
+
+- [Clickwise Profile Repository](https://github.com/api-evangelist/clickwise-net): Official machine-readable profile and API definitions.
+
+## Agent & MCP Discovery
+
+- Follows the standard /llms.txt specification for AI agents and MCP clients.
+- Validated via [AccessGuard AI-Readiness & OpenAPI-to-MCP Suite](https://ronanchnlps-bit.github.io/).
